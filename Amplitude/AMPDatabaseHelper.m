@@ -11,6 +11,7 @@
 #import "AMPDatabaseHelper.h"
 #import "AMPARCMacros.h"
 #import <FMDB/FMDB.h>
+#import <sqlite3.h>
 
 @interface AMPDatabaseHelper()
 @end
